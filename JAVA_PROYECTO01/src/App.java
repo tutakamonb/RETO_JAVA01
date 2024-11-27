@@ -13,7 +13,9 @@ public class App {
     //static double[] gasHora = {1000, 800, 1200};
     //static double [] numeroPasajeros = {50, 200, 300};
 
-
+    //este es el codigo clonado   
+    // estoy aprendiendo a hacer cambios
+     
 
     public static void main(String[] args) throws Exception {
        int opcion;
